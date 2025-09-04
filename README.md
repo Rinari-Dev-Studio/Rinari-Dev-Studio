@@ -10,7 +10,7 @@
 
 ## 📊 Meistgenutzte Sprachen
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinari-dev-studio&repo=memora&repo=project-lucid&repo=littletrack&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinari-dev-studio&repo=memora&repo=redlucid&repo=little-track&repo=cinevibe-ios&layout=compact&theme=radical)
 
 
 
