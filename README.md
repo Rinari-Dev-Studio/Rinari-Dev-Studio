@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hey, ich bin Sarina!  
+# 👋 Hey, ich bin Sarina, unterwegs zwischen Code, Kosmos und Science-Fiction.
 
 💡 **Mobile Developerin** mit Schwerpunkt auf **Android (Kotlin · Jetpack Compose)**  
 🎯 Fokus: Klarheit im Code · saubere Architektur · moderne UI/UX  
@@ -44,22 +44,30 @@
   <img src="https://img.shields.io/badge/API%20Integration-FF7043?logo=swift&logoColor=white&style=for-the-badge" />
 </p>
 
-
 </td>
 <td width="35%" valign="top">
 
 **Sprachen**
 <pre>
 Kotlin             ██████████████████░░  90%
-  
+
 Swift              ████████████░░░░░░░░  60%
-  
+
 HTML/CSS/Scripts   ██████████░░░░░░░░░░  50%
 </pre>
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🌌 Interessen  
+
+> 🤖 **Künstliche Intelligenz & Machine Learning**  
+> 🧠 **Sprachverarbeitung** (NLP, Speech-to-Text, TTS)  
+> ✨ **Empfehlungssysteme**  
+> 🎨 **Smarte User Experiences** & moderne App-Architekturen  
 
 ---
 
@@ -79,7 +87,7 @@ HTML/CSS/Scripts   ██████████░░░░░░░░░░ 
 
 > 🔒 **Little Track**  
 > `Kotlin · Compose`  
-> _Makro-Tracking-App mit Tages-/Wochenübersicht , automatisierter Nährstoffberechnung, BMI & Body RecompositionRechner, dynamischen Zielwerten._
+> _Makro-Tracking-App mit Tages-/Wochenübersicht, automatisierter Nährstoffberechnung, BMI & Body Recomposition Rechner, dynamischen Zielwerten._
 
 ---
 
@@ -92,4 +100,3 @@ HTML/CSS/Scripts   ██████████░░░░░░░░░░ 
 > 🔒 **Red Lucid**  
 > `Kotlin · Compose`  
 > _(Work-in-progress) Sprachgesteuerter KI-Assistent._
-
