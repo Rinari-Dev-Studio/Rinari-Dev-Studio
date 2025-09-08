@@ -79,7 +79,7 @@ HTML/CSS/Scripts   ██████████░░░░░░░░░░ 
 
 ---
 
-> 🎬 **[Cine Vibe (iOS)](https://github.com/Rinari-Dev-Studio/cinevibe-ios)**  
+> 🔒 **[Cine Vibe (iOS)](https://github.com/Rinari-Dev-Studio/cinevibe-ios)**  
 > `Swift · SwiftUI`  
 > _Filmempfehlungs-App mit Familien & Benutzerprofilen, Swipe-Präferenzen und Favoritenlisten. Klarer Fokus auf UI/UX._
 
