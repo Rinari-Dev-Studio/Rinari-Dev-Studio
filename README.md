@@ -9,15 +9,23 @@
 💡 **Mobile Developerin** mit Schwerpunkt auf **Android (Kotlin · Jetpack Compose)**  
 🎯 Fokus: Klarheit im Code · saubere Architektur · moderne UI/UX  
 📱 Entwicklerin von **_Little Track_** (Makro-Tracking-App, verfügbar im Google Play Store)  
-🧠 Arbeite aktuell am Projekt **Red Lucid** – ein Experimentierfeld für sprachgesteuerte Bots & KI-Features (Wakeword, Speech-to-Text, TTS, Security-Features).  
+🧠 Arbeite aktuell am Projekt **Red Lucid**, ein Experimentierfeld für sprachgesteuerte Bots & KI-Features (Wakeword, Speech-to-Text, TTS, Security-Features).  
 
 ---
 
-## 🧭 Fokus & Sprachen  
-
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="25%" valign="top">
+
+**Sprachen**  
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML/CSS/JS-F7DF1E?logo=html5&logoColor=white&style=flat-square" />
+</p>
+
+</td>
+<td width="75%" valign="top">
 
 **Stack**
 <p>
@@ -45,18 +53,6 @@
 </p>
 
 </td>
-<td width="35%" valign="top">
-
-**Sprachen**
-<pre>
-Kotlin             ██████████████████░░  90%
-
-Swift              ████████████░░░░░░░░  60%
-
-HTML/CSS/Scripts   ██████████░░░░░░░░░░  50%
-</pre>
-
-</td>
 </tr>
 </table>
 
@@ -79,7 +75,7 @@ HTML/CSS/Scripts   ██████████░░░░░░░░░░ 
 
 ---
 
-> 🔒 **[Cine Vibe (iOS)](https://github.com/Rinari-Dev-Studio/cinevibe-ios)**  
+> 🎬 **[Cine Vibe (iOS)](https://github.com/Rinari-Dev-Studio/cinevibe-ios)**  
 > `Swift · SwiftUI`  
 > _Filmempfehlungs-App mit Familien & Benutzerprofilen, Swipe-Präferenzen und Favoritenlisten. Klarer Fokus auf UI/UX._
 
