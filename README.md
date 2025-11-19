@@ -75,13 +75,13 @@
 
 ---
 
-> 🎬 **[Cine Vibe (iOS)](https://github.com/Rinari-Dev-Studio/cinevibe-ios)**  
+> 🎬 **[CineVibe (iOS)](https://github.com/Rinari-Dev-Studio/cinevibe-ios)**  
 > `Swift · SwiftUI`  
 > _Filmempfehlungs-App mit Familien & Benutzerprofilen, Swipe-Präferenzen und Favoritenlisten. Klarer Fokus auf UI/UX._
 
 ---
 
-> 🔒 **Little Track**  
+> 🔒 **LittleTrack**  
 > `Kotlin · Compose`  
 > _Makro-Tracking-App mit Tages-/Wochenübersicht, automatisierter Nährstoffberechnung, BMI & Body Recomposition Rechner, dynamischen Zielwerten._
 
@@ -93,6 +93,6 @@
 
 ---
 
-> 🔒 **Red Lucid**  
+> 🔒 **RedLucid**  
 > `Kotlin · Compose`  
 > _(Work-in-progress) Sprachgesteuerter KI-Assistent._
