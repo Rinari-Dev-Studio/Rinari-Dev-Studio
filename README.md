@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Rinari Dev Studio Banner" width="100%" />
+  <img src="assets/head_update.svg" alt="Rinari Dev Studio Banner" width="100%" />
 </p>
 
 ---
